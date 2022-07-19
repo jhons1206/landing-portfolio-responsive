@@ -1,6 +1,6 @@
-# Taller de Maquetación
-Repositorio del taller de maquetación dictado por @jonmircha en YouTube
+# Landing Portfolio Responsive
+Workshop Responsive Web Layout trained by Jhonatan MirCha
 
-## Proyectos
+## Project (Done)
 
-- [Landing Page de tipo Portafolio-CV](https://jhons1206.github.io/taller-maquetacion-web/portafolio-cv)
+Link: [Landing Portfolio Responsive](https://jhons1206.github.io/landing-portfolio-responsive/)
